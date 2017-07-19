@@ -3,11 +3,27 @@ import simple1
 exit = 'r'
 while(exit != 'q'):
     print('first num')
-    x = float(input())
+    
+    try: 
+        x = float(input())
+    except Exception:
+        print('Whats the fuck?')
+        x = 0
+   
     print('operation')
-    op = str(input())
+
+    try:
+        op = str(input())
+    except Exception:
+        print('Whats the fuck?')        
+        op = '+'
+
     print('second num')
-    y = float(input())
+    try:
+        y = float(input())
+    except Exception:
+        print('Whats the fuck?')        
+        y = 1
 
     if op == '+':
         result = simple1.my_sum(x,y)
