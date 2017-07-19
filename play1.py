@@ -1,5 +1,8 @@
 import simple1
-
+"""
+  Играемся с импортом своего модуля, обработкой исключений
+  Все коряво - но пока так и надо :))
+"""
 exit = 'r'
 while(exit != 'q'):
     print('first num')
@@ -33,7 +36,7 @@ while(exit != 'q'):
         result = simple1.my_div(x,y)
     else:
         result = 'Not allowed'
-
+    """ печатаем результат """
     print (result)
     
     print('Enter q for exit, or anykey for continue')

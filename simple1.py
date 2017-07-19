@@ -12,5 +12,3 @@ def my_div(x,y):
     except ZeroDivisionError:
         print('Division by zero!')
         return result
-
-    
