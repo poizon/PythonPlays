@@ -1,3 +1,6 @@
+version = '1.1'
+author = 'poizon'
+
 def my_sum(x,y):
     return x+y
 

@@ -1,0 +1,16 @@
+LENGTH:10 Iterator: 2 Elem: 3
+POP: 3
+LENGTH:9 Iterator: 4 Elem: 6
+POP: 6
+LENGTH:8 Iterator: 6 Elem: 9
+POP: 9
+LENGTH:7 Iterator: 2 Elem: 4
+POP: 4
+LENGTH:6 Iterator: 4 Elem: 8
+POP: 8
+LENGTH:5 Iterator: 2 Elem: 5
+POP: 5
+LENGTH:4 Iterator: 2 Elem: 7
+POP: 7
+LENGTH:3 Iterator: 2 Elem: 10
+POP: 10

@@ -1,8 +1,12 @@
-import simple1
+import simple1 
 """
   Играемся с импортом своего модуля, обработкой исключений
   Все коряво - но пока так и надо :))
 """
+
+print (simple1.version)
+print (simple1.author)
+
 exit = 'r'
 while(exit != 'q'):
     print('first num')
