@@ -1,0 +1,4 @@
+{
+  "apple" : [ "some popular fruit", "was red and green", "5 symbols" ],
+  "orange": [ "great juice from it", "not yellow and not red but middle", "woof... its have 6 symbols" ]
+}
